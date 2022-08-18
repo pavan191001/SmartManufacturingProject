@@ -2,9 +2,9 @@
 
 Academic Course Project
 
-Course name: Smart Manufacturing
+Course name: **Smart Manufacturing**
 
-Project name: Smart Water Quality Monitoring System
+Project name: **Smart Water Quality Monitoring System**
 
 Group members:
 
