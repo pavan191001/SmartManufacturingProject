@@ -1,7 +1,9 @@
 # SmartManufacturingProject
 
 Academic Course Project
+
 Course name: Smart Manufacturing
+
 Project name: Smart Water Quality Monitoring System
 
 Group members:
